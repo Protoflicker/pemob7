@@ -39,6 +39,10 @@ Aplikasi menggunakan skema database SQLite yang dikelola melalui SQLDelight. Ber
 
 
 
+https://github.com/user-attachments/assets/7590e14f-37ea-476f-941d-632836e7cc93
+
+
+
 ---
 
 ## 📁 Struktur Proyek
